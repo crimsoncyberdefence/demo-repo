@@ -19,3 +19,8 @@
     docker push USERNAME/backend-app:v1
     docker tag  USERNAME/frontend-app USERNAME/frontend-app:v1
     docker push USERNAME/frontend-app:v1
+
+## How to run this project repo
+    podman login
+    username enter
+    password enter
